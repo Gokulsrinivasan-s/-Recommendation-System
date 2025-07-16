@@ -93,3 +93,4 @@ Displays accuracy or evaluation metrics
 
 OUTPUT:
 
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/ed848094-ae63-406d-b5e1-42483f6646d7" />
